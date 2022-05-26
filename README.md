@@ -1,0 +1,3 @@
+## Efecto paralax
+
+Para ziontrade
